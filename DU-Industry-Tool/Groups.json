@@ -266,7 +266,7 @@
     },
     "Part":{
         "Id": "08d8a31f-50dc-4c02-8de7-8aa9a5df4c2e",
-        
+
         "Name": "Parts"
     },
     "UncommonPureMaterial":{
@@ -1907,5 +1907,9 @@
     "Consumable":{
         "Id": "08d8a31f-4f17-4195-862d-42d7290833ce",
          "Name": "Consumables"
-    }
+    },
+   "New Recipe":{
+        "Id": "7bdf2f70-51ef-40ee-b2e0-dad2a8c3030c",
+        "Name": "New Recipe"
+   }
 }
